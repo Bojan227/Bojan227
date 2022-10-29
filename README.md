@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Instagram-Clone**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **blazevski.bojan1@gmail.com**
 
