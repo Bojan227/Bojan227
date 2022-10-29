@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bojan Blazevski</h1>
 
-- 🔭 I’m currently working on **Blog API**
+- 🔭 I’m currently working on **Instagram-Clone**
 
 - 🌱 I’m currently learning **React**
 
