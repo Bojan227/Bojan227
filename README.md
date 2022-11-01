@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Instagram-Clone**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **blazevski.bojan1@gmail.com**
 
