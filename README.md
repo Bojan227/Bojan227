@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bojan Blazevski</h1>
 
-- 🔭 I’m currently working on **Instagram-Clone**
-
-- 🌱 I’m currently learning **TypeScript**
-
 - 📫 How to reach me **blazevski.bojan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
